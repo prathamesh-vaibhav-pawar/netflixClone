@@ -1,0 +1,166 @@
+.s1{
+    background:url("lastimg.jpg");
+    opacity: 0.9;
+    width:100%;
+    text-align: center;
+    color: white;
+    font-size: x-large;
+}
+.dropdown{
+    position:absolute;
+    top:8px;
+    right:200px;
+    height:40px;
+    width:100px
+}
+input{
+    width:400px;
+    height:50px;
+}
+button{
+    width:200px;
+    height:50px;
+    font-size: x-large;
+    background-color:red;
+    color: white;
+
+}
+.underline{
+    background-color: gray;
+    height:10px;
+}
+.s2{
+    background-color:rgb(72, 65, 65);
+    text-align: center;
+    color: white;
+    font-size: x-large;
+    width:100%;
+    opacity: 0.9;
+}
+.img{
+    position:relative;
+    left: 250px;
+    bottom:500px;
+    height:300px;
+}
+.txt{
+    margin-right:900px;
+}
+.txtx{
+    margin-left:900px;
+    margin-bottom: 100px;
+}
+.s3{
+    background-color:rgb(72, 65, 65);
+    text-align: center;
+    color: white;
+    font-size: x-large;
+    opacity: 0.9;
+}
+.imag{ 
+    text-align: center;
+    position:relative;
+    right: 250px;
+    top:300px;
+    height:300px;
+}
+.s4{
+    background-color:rgb(72, 65, 65);
+    text-align: center;
+    color: white;
+    font-size: x-large;
+    opacity: 0.9;
+}
+.need{
+    position:relative;
+    left: 250px;
+    top:500px;
+    height:300px;
+}
+.last{
+    position:relative;
+    right: 350px;
+    top:250px;
+    height:300px;
+}
+.s5{
+    background-color:rgb(72, 65, 65);
+    text-align: center;
+    color: white;
+    font-size: x-large;
+    opacity: 0.9;
+}
+body{
+    background-color:rgb(72, 65, 65); 
+}
+.s6{
+    text-align:center;
+    color:white;
+    font-size:x-large;
+    opacity: 0.9;
+}
+a{
+    color: rgb(150, 143, 143);
+}
+.s7{
+    text-align: center;
+    opacity: 0.9;
+}
+.butn{
+    
+    position:absolute;
+    top:8px;
+    right:90px;
+    height:40px;
+    width:100px
+}
+.butn:hover{
+    background-color: rgb(248, 37, 37);
+}
+button:hover{
+    background-color: rgb(248, 37, 37);
+}
+a:hover{
+    color: rgb(165, 164, 164);
+}
+.image{
+    position: absolute;
+    left:0px;
+    top:0px;
+    height:200px;
+}
+.logo{
+    color:red;
+    position: absolute;
+    left:0px;
+    top:0px;
+}
+.s1:hover{
+    opacity: 1.0;
+    
+}
+.s2:hover{
+    opacity: 1.0;
+    
+}
+.s3:hover{
+    opacity: 1.0;
+    
+}
+.s4:hover{
+    opacity: 1.0;
+    
+}
+.s5:hover{
+    opacity: 1.0;
+    
+}
+
+.s6:hover{
+    opacity: 1.0;
+    
+}
+.s7:hover{
+    opacity: 1.0;
+    
+}
